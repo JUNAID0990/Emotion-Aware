@@ -1,0 +1,5 @@
+{
+  "name": "Emotion-Aware",
+  "description": "An emotion-aware conversational AI that adapts its tone and reasoning based on simulated emotional sensor data.",
+  "requestFramePermissions": []
+}
